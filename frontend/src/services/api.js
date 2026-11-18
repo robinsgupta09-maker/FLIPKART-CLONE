@@ -1,4 +1,8 @@
-const API_BASE = 'http://localhost:8000/api';
+const API_BASE = import.meta.env.VITE_API_BASE || (
+  typeof window !== 'undefined' && window.location.port === '5173'
+    ? 'http://localhost:8000/api'
+    : '/api'
+);
 
 export async function fetchProducts(params = {}) {
   const query = new URLSearchParams();

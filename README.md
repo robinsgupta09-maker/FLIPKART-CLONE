@@ -118,6 +118,27 @@ Frontend will be live at: `http://localhost:5173`
 
 ---
 
+## 🌐 Deploy to Render (render.com)
+
+This project is pre-configured with a Render Blueprint (`render.yaml`) to deploy both Frontend and Backend seamlessly on Render's Free tier:
+
+### Option A: 1-Click Blueprint (Recommended)
+1. Go to [Render Dashboard](https://dashboard.render.com).
+2. Click **New +** -> **Blueprint**.
+3. Connect your GitHub repository: `robinsgupta09-maker/FLIPKART-CLONE`.
+4. Click **Apply**. Render will automatically build the React frontend and launch the FastAPI server!
+
+### Option B: Manual Web Service
+1. In Render, select **New +** -> **Web Service**.
+2. Connect your repository.
+3. Configure:
+   - **Environment**: Python
+   - **Build Command**: `cd frontend && npm install && npm run build && cd ../backend && pip install -r requirements.txt`
+   - **Start Command**: `cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT`
+4. Click **Create Web Service**.
+
+---
+
 ## 📁 Project Directory Structure
 
 ```
