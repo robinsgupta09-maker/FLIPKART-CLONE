@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --fk-blue: #2874f0;
+    --fk-blue-dark: #1259c7;
+    --fk-yellow: #ffe500;
+    --fk-orange: #fb641b;
+    --fk-orange-hover: #e0530e;
+    --fk-yellow-btn: #ff9f00;
+    --fk-yellow-btn-hover: #f39700;
+    --fk-green: #388e3c;
+    --fk-bg: #f1f3f6;
+    --fk-border: #f0f0f0;
+    --fk-border-dark: #e0e0e0;
+    --fk-text: #212121;
+    --fk-text-secondary: #878787;
+    --fk-footer: #172337;
+    --fk-footer-bottom: #0f1724;
+  }
+
+  body {
+    font-family: Roboto, Arial, sans-serif;
+    background-color: #f1f3f6;
+    color: #212121;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: 0;
+  }
+}
+
+/* Custom scrollbar for horizontal product sliders */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Custom shadow utilities matching Flipkart */
+.fk-shadow-sm {
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.16);
+}
+.fk-shadow-md {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08);
+}
+.fk-shadow-dropdown {
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.2);
+}

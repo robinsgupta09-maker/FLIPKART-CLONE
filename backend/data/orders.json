@@ -1,0 +1,79 @@
+[
+  {
+    "orderId": "ODD2EDF09478754D",
+    "createdAt": "2026-11-18T21:47:24.848557",
+    "status": "Order Confirmed",
+    "expectedDelivery": "Expected delivery within 2-4 business days",
+    "items": [
+      {
+        "productId": "elec-1",
+        "title": "Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS Monterey)",
+        "price": 84990,
+        "originalPrice": 99900,
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+        "quantity": 1,
+        "sellerName": "TREASURE MINT"
+      },
+      {
+        "productId": "elec-2",
+        "title": "ASUS TUF Gaming F15 Core i5 11th Gen - (16 GB/512 GB SSD/RTX 2050)",
+        "price": 49990,
+        "originalPrice": 75990,
+        "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+        "quantity": 1,
+        "sellerName": "PETILANTE"
+      }
+    ],
+    "totalAmount": 135039,
+    "discountAmount": 40910,
+    "deliveryFee": 0,
+    "shippingAddress": {
+      "name": "Rahul Sharma",
+      "phone": "9876543210",
+      "pincode": "560103",
+      "locality": "Bellandur Outer Ring Road",
+      "address": "Flat 402, Green Glen Layout, Behind EcoSpace",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "landmark": "Near Central Mall",
+      "alternatePhone": null,
+      "addressType": "HOME"
+    },
+    "paymentMethod": "Cash on Delivery (COD)",
+    "paymentStatus": "COMPLETED"
+  },
+  {
+    "orderId": "ODFAA8C40C22D744",
+    "createdAt": "2026-11-18T21:14:58.906619",
+    "status": "Order Confirmed",
+    "expectedDelivery": "Expected delivery within 2-4 business days",
+    "items": [
+      {
+        "productId": "mob-1",
+        "title": "Apple iPhone 15 (Black, 128 GB)",
+        "price": 58999,
+        "originalPrice": 69900,
+        "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+        "quantity": 1,
+        "sellerName": "TREASURE MINT"
+      }
+    ],
+    "totalAmount": 59058,
+    "discountAmount": 10901,
+    "deliveryFee": 0,
+    "shippingAddress": {
+      "name": "Rahul Sharma",
+      "phone": "9876543210",
+      "pincode": "560103",
+      "locality": "Bellandur Outer Ring Road",
+      "address": "Flat 402, Green Glen Layout, Behind EcoSpace",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "landmark": "Near Central Mall",
+      "alternatePhone": null,
+      "addressType": "HOME"
+    },
+    "paymentMethod": "UPI (user@okhdfcbank)",
+    "paymentStatus": "COMPLETED"
+  }
+]

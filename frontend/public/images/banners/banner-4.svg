@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 270" width="100%" height="100%">
+      <defs>
+        <linearGradient id="grad_banner-4" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#1e3c72"/>
+          <stop offset="100%" stop-color="#2a5298"/>
+        </linearGradient>
+      </defs>
+      <rect width="1600" height="270" fill="url(#grad_banner-4)"/>
+      
+      <!-- Decorative background circles -->
+      <circle cx="1400" cy="135" r="160" fill="white" fill-opacity="0.04"/>
+      <circle cx="1500" cy="50" r="100" fill="#fbc2eb" fill-opacity="0.08"/>
+      <circle cx="1250" cy="220" r="80" fill="white" fill-opacity="0.03"/>
+      
+      <!-- Flipkart Assured Badge on banner -->
+      <rect x="80" y="45" width="130" height="24" rx="4" fill="#2874f0"/>
+      <text x="145" y="61" font-family="Roboto, sans-serif" font-size="11" font-weight="900" fill="#ffe500" text-anchor="middle" letter-spacing="1">★ FLIPKART PLUS</text>
+
+      <!-- Main typography -->
+      <text x="80" y="115" font-family="Roboto, Arial, sans-serif" font-size="44" font-weight="900" fill="#ffffff" letter-spacing="-0.5">HOME & KITCHEN ESSENTIALS</text>
+      <text x="80" y="155" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="400" fill="#e2e8f0">Cookware Sets, Orthopedic Mattresses, Furniture & Lighting</text>
+      
+      <!-- Offer Pill -->
+      <rect x="80" y="185" width="460" height="38" rx="19" fill="#fbc2eb" fill-opacity="0.2" stroke="#fbc2eb" stroke-width="1.5"/>
+      <text x="105" y="210" font-family="Roboto, Arial, sans-serif" font-size="15" font-weight="800" fill="#fbc2eb">UP TO 70% OFF + FREE HOME DELIVERY</text>
+      
+      <!-- Right graphic illustration -->
+      <rect x="1200" y="45" width="280" height="180" rx="12" fill="white" fill-opacity="0.07" stroke="white" stroke-opacity="0.15" stroke-width="2"/>
+      <circle cx="1340" cy="120" r="45" fill="#fbc2eb" fill-opacity="0.2"/>
+      <path d="M1310 120 L1335 145 L1380 95" fill="none" stroke="#fbc2eb" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="1340" y="195" font-family="Roboto, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">BEST OFFERS GUARANTEED</text>
+    </svg>

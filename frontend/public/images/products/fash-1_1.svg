@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Clean soft background -->
+  <rect width="400" height="400" fill="#fdf2f8" rx="8"/>
+  <rect x="10" y="10" width="380" height="380" fill="none" stroke="#e2e8f0" stroke-width="1.5" rx="8"/>
+  
+  <!-- Category & Brand Header Tag -->
+  <rect x="25" y="25" width="150" height="24" rx="4" fill="#0284c7"/>
+  <text x="100" y="41" font-family="Roboto, sans-serif" font-size="10" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">DENNIS LINGO</text>
+  
+  <!-- Flipkart Assured Star -->
+  <circle cx="360" cy="37" r="14" fill="#2874f0"/>
+  <text x="360" y="42" font-family="Roboto, sans-serif" font-size="12" font-weight="900" fill="#ffe500" text-anchor="middle">★</text>
+  
+  <!-- Main Illustration Shape -->
+  <g id="product-art">
+    <!-- Stylish T-Shirt / Dress shape -->
+          <path d="M140 100 l35 -20 h50 l35 20 l-20 40 l-18 -10 v120 h-84 v-120 l-18 10 z" fill="#ec4899" stroke="#be185d" stroke-width="4"/>
+          <circle cx="200" cy="95" r="16" fill="#fdf2f8"/>
+          <!-- Brand pattern lines -->
+          <line x1="160" y1="160" x2="240" y2="160" stroke="#fbcfe8" stroke-width="4" stroke-linecap="round"/>
+          <line x1="170" y1="180" x2="230" y2="180" stroke="#fbcfe8" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  
+  <!-- View Label (Front / Side / Angle) -->
+  <rect x="140" y="325" width="120" height="22" rx="11" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="200" y="340" font-family="Roboto, sans-serif" font-size="11" font-weight="600" fill="#64748b" text-anchor="middle">Side Angle</text>
+  
+  <!-- Model Title footer -->
+  <text x="200" y="375" font-family="Roboto, sans-serif" font-size="12" font-weight="700" fill="#1e293b" text-anchor="middle">Dennis Lingo Official</text>
+</svg>

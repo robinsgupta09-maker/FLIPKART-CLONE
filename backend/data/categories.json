@@ -1,0 +1,175 @@
+[
+  {
+    "id": "grocery",
+    "name": "Grocery",
+    "slug": "grocery",
+    "icon": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=128&q=80",
+    "hasDropdown": false,
+    "subcategories": []
+  },
+  {
+    "id": "mobiles",
+    "name": "Mobiles",
+    "slug": "mobiles",
+    "icon": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=128&q=80",
+    "hasDropdown": false,
+    "subcategories": []
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion",
+    "slug": "fashion",
+    "icon": "https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&w=128&q=80",
+    "hasDropdown": true,
+    "subcategories": [
+      {
+        "title": "Men's Top Wear",
+        "items": ["All", "Men's T-Shirts", "Men's Casual Shirts", "Men's Formal Shirts", "Men's Kurtas", "Men's Jackets", "Men's Sweatshirts"]
+      },
+      {
+        "title": "Men's Bottom Wear",
+        "items": ["All", "Men's Jeans", "Men's Trousers", "Men's Trackpants", "Men's Shorts", "Men's Cargos"]
+      },
+      {
+        "title": "Women Ethnic",
+        "items": ["All", "Women Sarees", "Women Kurtas & Kurtis", "Women Kurta Sets", "Ethnic Dresses", "Women Dupattas"]
+      },
+      {
+        "title": "Women Western",
+        "items": ["All", "Women Tops", "Women Dresses", "Women T-shirts", "Women Jeans", "Women Trousers"]
+      },
+      {
+        "title": "Footwear",
+        "items": ["Men's Sports Shoes", "Men's Casual Shoes", "Men's Formal Shoes", "Women Flats", "Women Heels", "Kids Shoes"]
+      },
+      {
+        "title": "Watches & Accessories",
+        "items": ["Men Watches", "Women Watches", "Sunglasses", "Wallets", "Belts", "Handbags"]
+      }
+    ]
+  },
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "slug": "electronics",
+    "icon": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=128&q=80",
+    "hasDropdown": true,
+    "subcategories": [
+      {
+        "title": "Audio",
+        "items": ["All", "Bluetooth Headphones", "Wired Earphones", "True Wireless Earbuds", "Bluetooth Speakers", "Soundbars"]
+      },
+      {
+        "title": "Cameras & Accessories",
+        "items": ["All", "DSLR & Mirrorless", "Action Cameras", "Camera Tripods", "Camera Lenses", "Security Cameras"]
+      },
+      {
+        "title": "Computers & Peripherals",
+        "items": ["All", "Laptops", "Gaming Laptops", "Monitors", "Keyboards & Mouse", "Printers", "External Hard Disks"]
+      },
+      {
+        "title": "Smart Wearables",
+        "items": ["All", "Smartwatches", "Fitness Bands", "Smart Glasses", "Smart Rings"]
+      },
+      {
+        "title": "Tablets",
+        "items": ["All", "Apple iPads", "Android Tablets", "Calling Tablets", "Tablet Accessories"]
+      }
+    ]
+  },
+  {
+    "id": "home-furniture",
+    "name": "Home & Furniture",
+    "slug": "home-furniture",
+    "icon": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=128&q=80",
+    "hasDropdown": true,
+    "subcategories": [
+      {
+        "title": "Kitchen & Dining",
+        "items": ["Cookware", "Knives & Choppers", "Dinner Sets", "Storage Containers", "Lunch Boxes", "Water Bottles"]
+      },
+      {
+        "title": "Furniture",
+        "items": ["Beds", "Sofas & Recliners", "Dining Tables", "Office Chairs", "Wardrobes", "Shoe Racks"]
+      },
+      {
+        "title": "Home Furnishing",
+        "items": ["Bedsheets", "Curtains", "Cushions & Covers", "Blankets & Quilts", "Carpets & Rugs", "Trowels"]
+      },
+      {
+        "title": "Home Decor",
+        "items": ["Wall Clocks", "Wall Paintings", "Showpieces", "Candles & Holders", "Flower Vases", "Windchimes"]
+      }
+    ]
+  },
+  {
+    "id": "appliances",
+    "name": "Appliances",
+    "slug": "appliances",
+    "icon": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=128&q=80",
+    "hasDropdown": true,
+    "subcategories": [
+      {
+        "title": "Televisions",
+        "items": ["All", "Smart TVs", "4K Ultra HD TVs", "OLED & QLED TVs", "32 Inch TVs", "55 Inch TVs"]
+      },
+      {
+        "title": "Washing Machines",
+        "items": ["Fully Automatic Front Load", "Fully Automatic Top Load", "Semi-Automatic"]
+      },
+      {
+        "title": "Air Conditioners",
+        "items": ["Split ACs", "Inverter ACs", "Window ACs", "5 Star ACs"]
+      },
+      {
+        "title": "Refrigerators",
+        "items": ["Single Door", "Double Door", "Side by Side", "Triple Door"]
+      },
+      {
+        "title": "Kitchen Appliances",
+        "items": ["Microwave Ovens", "Mixer Grinders", "Induction Cooktops", "Air Fryers", "Electric Kettles", "Water Purifiers"]
+      }
+    ]
+  },
+  {
+    "id": "travel",
+    "name": "Travel",
+    "slug": "travel",
+    "icon": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=128&q=80",
+    "hasDropdown": false,
+    "subcategories": []
+  },
+  {
+    "id": "beauty-toys",
+    "name": "Beauty, Toys & More",
+    "slug": "beauty-toys",
+    "icon": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=128&q=80",
+    "hasDropdown": true,
+    "subcategories": [
+      {
+        "title": "Beauty & Personal Care",
+        "items": ["Bath & Body", "Skincare", "Haircare", "Deodorants & Perfumes", "Makeup", "Men's Grooming"]
+      },
+      {
+        "title": "Toys & Games",
+        "items": ["Remote Control Toys", "Board Games", "Soft Toys", "Puzzles", "Action Figures", "Outdoor Toys"]
+      },
+      {
+        "title": "Baby Care",
+        "items": ["Diapers & Wipes", "Baby Bath & Skin", "Baby Feeding", "Baby Strollers", "Baby Bedding"]
+      },
+      {
+        "title": "Sports & Fitness",
+        "items": ["Cricket Bats & Gear", "Badminton", "Gym & Fitness Equipment", "Yoga Mats", "Skates & Scooters"]
+      }
+    ]
+  },
+  {
+    "id": "two-wheelers",
+    "name": "Two Wheelers",
+    "slug": "two-wheelers",
+    "icon": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=128&q=80",
+    "hasDropdown": false,
+    "subcategories": []
+  }
+]

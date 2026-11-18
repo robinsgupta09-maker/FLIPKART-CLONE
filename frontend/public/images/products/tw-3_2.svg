@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Clean soft background -->
+  <rect width="400" height="400" fill="#f0f9ff" rx="8"/>
+  <rect x="10" y="10" width="380" height="380" fill="none" stroke="#e2e8f0" stroke-width="1.5" rx="8"/>
+  
+  <!-- Category & Brand Header Tag -->
+  <rect x="25" y="25" width="150" height="24" rx="4" fill="#059669"/>
+  <text x="100" y="41" font-family="Roboto, sans-serif" font-size="10" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">HONDA</text>
+  
+  <!-- Flipkart Assured Star -->
+  <circle cx="360" cy="37" r="14" fill="#2874f0"/>
+  <text x="360" y="42" font-family="Roboto, sans-serif" font-size="12" font-weight="900" fill="#ffe500" text-anchor="middle">★</text>
+  
+  <!-- Main Illustration Shape -->
+  <g id="product-art">
+    <!-- Modern Bike / Scooter -->
+          <!-- Wheels -->
+          <circle cx="130" cy="220" r="40" fill="#334155" stroke="#64748b" stroke-width="6"/>
+          <circle cx="130" cy="220" r="22" fill="#0f172a"/>
+          <circle cx="270" cy="220" r="40" fill="#334155" stroke="#64748b" stroke-width="6"/>
+          <circle cx="270" cy="220" r="22" fill="#0f172a"/>
+          <!-- Chassis & Body -->
+          <path d="M130 220 l50 -70 h50 l40 70 M180 150 l-20 -40 h30 M230 150 l10 30" fill="none" stroke="#0284c7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+          <rect x="180" y="130" width="55" height="20" rx="6" fill="#0284c7"/>
+  </g>
+  
+  <!-- View Label (Front / Side / Angle) -->
+  <rect x="140" y="325" width="120" height="22" rx="11" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="200" y="340" font-family="Roboto, sans-serif" font-size="11" font-weight="600" fill="#64748b" text-anchor="middle">Back View</text>
+  
+  <!-- Model Title footer -->
+  <text x="200" y="375" font-family="Roboto, sans-serif" font-size="12" font-weight="700" fill="#1e293b" text-anchor="middle">Honda Official</text>
+</svg>

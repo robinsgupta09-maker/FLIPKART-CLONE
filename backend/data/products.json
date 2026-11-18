@@ -1,0 +1,2723 @@
+[
+  {
+    "id": "mob-1",
+    "title": "Apple iPhone 15 (Black, 128 GB)",
+    "brand": "Apple",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 58999,
+    "originalPrice": 69900,
+    "discount": 15,
+    "rating": 4.6,
+    "ratingCount": 45890,
+    "reviewCount": 3210,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "128 GB ROM",
+      "15.49 cm (6.1 inch) Super Retina XDR Display",
+      "48MP + 12MP | 12MP Front Camera",
+      "A16 Bionic Chip, 6 Core Processor",
+      "Dynamic Island and Ceramic Shield Front"
+    ],
+    "specifications": {
+      "General": {
+        "In The Box": "Handset, USB-C Charge Cable, Documentation",
+        "Model Name": "iPhone 15",
+        "Color": "Black",
+        "SIM Type": "Dual Sim (Nano + eSIM)"
+      },
+      "Display Features": {
+        "Display Size": "15.49 cm (6.1 inch)",
+        "Resolution": "2556 x 1179 Pixels",
+        "Resolution Type": "Super Retina XDR Display"
+      },
+      "Processor": {
+        "Operating System": "iOS 17",
+        "Processor Type": "A16 Bionic Chip"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card",
+      "Special Price: Get extra ₹10,901 off (price inclusive of cashback/coupon)",
+      "Partner Offer: Sign-up for Flipkart Pay Later & get ₹500 Gift Card"
+    ],
+    "seller": {
+      "name": "TREASURE MINT",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 45,
+    "warranty": "1 Year Warranty for Phone and 6 Months for In-Box Accessories",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "mob-2",
+    "title": "SAMSUNG Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)",
+    "brand": "SAMSUNG",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 121999,
+    "originalPrice": 134999,
+    "discount": 9,
+    "rating": 4.7,
+    "ratingCount": 18230,
+    "reviewCount": 1450,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "12 GB RAM | 256 GB ROM",
+      "17.27 cm (6.8 inch) Quad HD+ Dynamic AMOLED 2X Display",
+      "200MP + 50MP + 12MP + 10MP | 12MP Front Camera",
+      "5000 mAh Battery",
+      "Snapdragon 8 Gen 3 Processor, Galaxy AI Built-in"
+    ],
+    "specifications": {
+      "General": {
+        "Model Name": "Galaxy S24 Ultra 5G",
+        "Color": "Titanium Gray"
+      },
+      "Processor": {
+        "Operating System": "Android 14, One UI 6.1"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹6000 Instant Discount on HDFC Bank Credit Cards",
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "CORSECA Retails",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 20,
+    "warranty": "1 Year Manufacturer Warranty for Device and 6 Months for In-Box Accessories",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "mob-3",
+    "title": "Nothing Phone (2a) 5G (Black, 128 GB)",
+    "brand": "Nothing",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 23999,
+    "originalPrice": 25999,
+    "discount": 7,
+    "rating": 4.4,
+    "ratingCount": 68400,
+    "reviewCount": 6120,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "17.02 cm (6.7 inch) Full HD+ Flexible AMOLED Display",
+      "50MP (OIS) + 50MP | 32MP Front Camera",
+      "Dimensity 7200 Pro Processor",
+      "Glyph Interface LED Lights"
+    ],
+    "specifications": {
+      "General": {
+        "Model Name": "Phone (2a) 5G",
+        "Color": "Black"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹2,000 Off on SBI Bank Credit Cards"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 80,
+    "warranty": "1 Year Brand Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "mob-4",
+    "title": "Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)",
+    "brand": "Motorola",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 22999,
+    "originalPrice": 27999,
+    "discount": 17,
+    "rating": 4.5,
+    "ratingCount": 54200,
+    "reviewCount": 4890,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "16.94 cm (6.67 inch) Full HD+ 144Hz 3D Curved pOLED Display",
+      "50MP (Sony LYT-700C OIS) + 13MP | 32MP Front Camera",
+      "5000 mAh Battery with 68W TurboPower Charging"
+    ],
+    "specifications": {
+      "General": {
+        "Model Name": "Edge 50 Fusion"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "PETILANTE Online",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 60,
+    "warranty": "1 Year Brand Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "mob-5",
+    "title": "realme 12 Pro+ 5G (Submarine Blue, 256 GB)",
+    "brand": "realme",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 29999,
+    "originalPrice": 34999,
+    "discount": 14,
+    "rating": 4.4,
+    "ratingCount": 31200,
+    "reviewCount": 2840,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "8 GB RAM | 256 GB ROM",
+      "17.02 cm (6.7 inch) Full HD+ 120Hz Curved Display",
+      "64MP Periscope + 50MP Sony IMX890 OIS + 8MP | 32MP Front",
+      "Snapdragon 7s Gen 2 Processor"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "12 Pro+ 5G"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹3000 Instant Discount on ICICI Bank Cards"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.6
+    },
+    "inStock": true,
+    "stockCount": 35,
+    "warranty": "1 Year Manufacturer Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "mob-6",
+    "title": "POCO X6 Pro 5G (Spectre Black, 256 GB)",
+    "brand": "POCO",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 24999,
+    "originalPrice": 30999,
+    "discount": 19,
+    "rating": 4.3,
+    "ratingCount": 42100,
+    "reviewCount": 3900,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "8 GB RAM | 256 GB ROM",
+      "16.94 cm (6.67 inch) 1.5K 120Hz AMOLED Display",
+      "64MP (OIS) + 8MP + 2MP | 16MP Front Camera",
+      "Dimensity 8300 Ultra Processor"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "X6 Pro 5G"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "SuperComNet",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 50,
+    "warranty": "1 Year Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "mob-7",
+    "title": "vivo T3x 5G (Crimson Bliss, 128 GB)",
+    "brand": "vivo",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 13499,
+    "originalPrice": 17499,
+    "discount": 22,
+    "rating": 4.4,
+    "ratingCount": 89200,
+    "reviewCount": 6500,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "6 GB RAM | 128 GB ROM",
+      "17.07 cm (6.72 inch) FHD+ 120Hz Display",
+      "50MP + 2MP | 8MP Front Camera",
+      "6000 mAh Battery with 44W FlashCharge"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "T3x 5G"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹1000 Off on HDFC Credit Card"
+    ],
+    "seller": {
+      "name": "PETILANTE",
+      "rating": 4.6
+    },
+    "inStock": true,
+    "stockCount": 110,
+    "warranty": "1 Year Phone, 6 Months Accessories",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": false
+  },
+  {
+    "id": "mob-8",
+    "title": "Redmi 13C 5G (Starlight Black, 128 GB)",
+    "brand": "Redmi",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 10499,
+    "originalPrice": 13999,
+    "discount": 25,
+    "rating": 4.2,
+    "ratingCount": 74300,
+    "reviewCount": 4200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "4 GB RAM | 128 GB ROM",
+      "17.12 cm (6.74 inch) HD+ 90Hz Display",
+      "50MP AI Dual Camera | 5MP Front Camera"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "13C 5G"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 95,
+    "warranty": "1 Year Manufacturer Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "mob-9",
+    "title": "OnePlus Nord CE4 5G (Dark Chrome, 128 GB)",
+    "brand": "OnePlus",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 24999,
+    "originalPrice": 26999,
+    "discount": 7,
+    "rating": 4.5,
+    "ratingCount": 38700,
+    "reviewCount": 3100,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "17.02 cm (6.7 inch) Full HD+ Fluid AMOLED 120Hz Display",
+      "50MP Sony LYT-600 (OIS) + 8MP | 16MP Front Camera",
+      "5500 mAh Battery with 100W SUPERVOOC"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "Nord CE4 5G"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹2,000 Instant Discount with ICICI Cards"
+    ],
+    "seller": {
+      "name": "TREASURE MINT",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 40,
+    "warranty": "1 Year Brand Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "mob-10",
+    "title": "Google Pixel 8 (Hazel, 128 GB)",
+    "brand": "Google",
+    "category": "mobiles",
+    "subcategory": "Smartphones",
+    "price": 62999,
+    "originalPrice": 75999,
+    "discount": 17,
+    "rating": 4.5,
+    "ratingCount": 14200,
+    "reviewCount": 1650,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1598327105854-c8674faddf79?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "15.75 cm (6.2 inch) Actua 120Hz OLED Display",
+      "50MP + 12MP Ultra-wide | 10.5MP Front Camera",
+      "Google Tensor G3 Processor"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "Pixel 8"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹4,000 Off on SBI Bank Credit Cards"
+    ],
+    "seller": {
+      "name": "CORSECA Retails",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 25,
+    "warranty": "1 Year International & Brand Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "elec-1",
+    "title": "Apple MacBook Air Apple M2 - (8 GB/256 GB SSD/macOS Monterey)",
+    "brand": "Apple",
+    "category": "electronics",
+    "subcategory": "Laptops",
+    "price": 84990,
+    "originalPrice": 99900,
+    "discount": 14,
+    "rating": 4.7,
+    "ratingCount": 9480,
+    "reviewCount": 780,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Apple M2 Processor",
+      "8 GB Unified Memory RAM",
+      "256 GB SSD",
+      "34.54 cm (13.6 Inch) Liquid Retina Display"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "MacBook Air M2",
+        "Series": "Air"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹5,000 Off on HDFC Credit Cards"
+    ],
+    "seller": {
+      "name": "TREASURE MINT",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 30,
+    "warranty": "1 Year Limited Hardware Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "elec-2",
+    "title": "ASUS TUF Gaming F15 Core i5 11th Gen - (16 GB/512 GB SSD/RTX 2050)",
+    "brand": "ASUS",
+    "category": "electronics",
+    "subcategory": "Laptops",
+    "price": 49990,
+    "originalPrice": 75990,
+    "discount": 34,
+    "rating": 4.4,
+    "ratingCount": 14800,
+    "reviewCount": 1240,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Intel Core i5 11th Gen Processor",
+      "16 GB DDR4 RAM | 512 GB SSD",
+      "4 GB NVIDIA GeForce RTX 2050",
+      "39.62 cm (15.6 Inch) 144Hz FHD"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "TUF Gaming F15"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "PETILANTE",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 42,
+    "warranty": "1 Year Onsite Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "elec-3",
+    "title": "Sony WH-1000XM5 Bluetooth Headset with ANC (Active Noise Cancellation)",
+    "brand": "Sony",
+    "category": "electronics",
+    "subcategory": "Audio",
+    "price": 26990,
+    "originalPrice": 34990,
+    "discount": 22,
+    "rating": 4.6,
+    "ratingCount": 6430,
+    "reviewCount": 580,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Industry-leading Noise Cancellation with 8 Mics",
+      "30 Hours Battery Life with Quick Charge",
+      "High-Res Audio Wireless LDAC"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "WH-1000XM5"
+      }
+    },
+    "offers": [
+      "Bank Offer: Flat ₹3000 Off on All Credit Cards"
+    ],
+    "seller": {
+      "name": "CORSECA Retails",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 18,
+    "warranty": "1 Year Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "elec-4",
+    "title": "boAt Airdopes 161 with 40 Hours Playback Bluetooth Headset",
+    "brand": "boAt",
+    "category": "electronics",
+    "subcategory": "Audio",
+    "price": 999,
+    "originalPrice": 2490,
+    "discount": 59,
+    "rating": 4.1,
+    "ratingCount": 384500,
+    "reviewCount": 28900,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Battery life: 40 hrs | 10 mins charge = 180 mins playtime",
+      "10mm Drivers with Signature boAt Sound",
+      "IPX5 Water & Sweat Resistance"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "Airdopes 161"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹1,491 Off"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 200,
+    "warranty": "1 Year Warranty from Brand",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "elec-5",
+    "title": "Apple iPad (10th Gen) 64 GB ROM 10.9 Inch with Wi-Fi Only",
+    "brand": "Apple",
+    "category": "electronics",
+    "subcategory": "Tablets",
+    "price": 31900,
+    "originalPrice": 39900,
+    "discount": 20,
+    "rating": 4.6,
+    "ratingCount": 18700,
+    "reviewCount": 1200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "64 GB ROM",
+      "27.69 cm (10.9 inch) Liquid Retina Display",
+      "A14 Bionic Chip Processor"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "iPad 10th Gen"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹2,000 Off on HDFC Credit Cards"
+    ],
+    "seller": {
+      "name": "TREASURE MINT",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 35,
+    "warranty": "1 Year Brand Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "elec-6",
+    "title": "Canon EOS R100 Mirrorless Camera with 18-45mm Lens",
+    "brand": "Canon",
+    "category": "electronics",
+    "subcategory": "Cameras",
+    "price": 43990,
+    "originalPrice": 64995,
+    "discount": 32,
+    "rating": 4.5,
+    "ratingCount": 3200,
+    "reviewCount": 410,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "24.1 MP APS-C CMOS Sensor",
+      "Dual Pixel CMOS AF with Eye Detection",
+      "4K 24p Video and Full HD 60p"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "EOS R100"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "CORSECA Retails",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 15,
+    "warranty": "2 Years Canon India Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": false
+  },
+  {
+    "id": "elec-7",
+    "title": "Noise ColorFit Pulse 2 Max 1.85\" Bluetooth Calling Smartwatch",
+    "brand": "Noise",
+    "category": "electronics",
+    "subcategory": "Smart Wearables",
+    "price": 1199,
+    "originalPrice": 5999,
+    "discount": 80,
+    "rating": 4.1,
+    "ratingCount": 240000,
+    "reviewCount": 19800,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "1.85 inch TFT LCD 550 nits Bright Display",
+      "Bluetooth Calling with Tru Sync technology",
+      "10 Days Battery Life"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "Pulse 2 Max"
+      }
+    },
+    "offers": [
+      "Special Price: ₹4,800 Off"
+    ],
+    "seller": {
+      "name": "PETILANTE",
+      "rating": 4.6
+    },
+    "inStock": true,
+    "stockCount": 150,
+    "warranty": "1 Year Manufacturer Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "elec-8",
+    "title": "Samsung 27 inch Full HD IPS Bezel-Less Monitor",
+    "brand": "SAMSUNG",
+    "category": "electronics",
+    "subcategory": "Monitors",
+    "price": 10499,
+    "originalPrice": 18500,
+    "discount": 43,
+    "rating": 4.4,
+    "ratingCount": 12890,
+    "reviewCount": 1450,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "27 inch Full HD IPS LED Backlit Display",
+      "75 Hz Refresh Rate with AMD FreeSync",
+      "3-Sided Borderless Minimalist Design"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "LF27T350FHWXXL"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "SuperComNet",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 28,
+    "warranty": "3 Years Samsung Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "elec-9",
+    "title": "Seagate One Touch 2 TB External Hard Disk Drive (Black)",
+    "brand": "Seagate",
+    "category": "electronics",
+    "subcategory": "Storage",
+    "price": 6399,
+    "originalPrice": 9299,
+    "discount": 31,
+    "rating": 4.5,
+    "ratingCount": 42100,
+    "reviewCount": 3890,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "2 TB Storage Capacity",
+      "USB 3.0 Interface for Fast Transfers",
+      "Password Protection with Hardware Encryption"
+    ],
+    "specifications": {
+      "General": {
+        "Capacity": "2 TB"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 65,
+    "warranty": "3 Years Limited Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "elec-10",
+    "title": "HP Smart Tank 580 All-in-One Dual Band WiFi Color Inkjet Printer",
+    "brand": "HP",
+    "category": "electronics",
+    "subcategory": "Printers",
+    "price": 13999,
+    "originalPrice": 18848,
+    "discount": 25,
+    "rating": 4.3,
+    "ratingCount": 16400,
+    "reviewCount": 1920,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Print, Scan, Copy with Smart Guided Buttons",
+      "Self-Healing Dual Band Wi-Fi, USB 2.0",
+      "Up to 12000 Black or 6000 Color pages"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "Smart Tank 580"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹1000 Off on ICICI Bank Cards"
+    ],
+    "seller": {
+      "name": "CORSECA Retails",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 32,
+    "warranty": "1 Year Onsite Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "fash-1",
+    "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
+    "brand": "Dennis Lingo",
+    "category": "fashion",
+    "subcategory": "Men's Casual Shirts",
+    "price": 549,
+    "originalPrice": 1849,
+    "discount": 70,
+    "rating": 4.2,
+    "ratingCount": 115000,
+    "reviewCount": 9400,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Fit: Slim Fit",
+      "Fabric: 100% Pure Premium Cotton",
+      "Spread Collar, Full Sleeve"
+    ],
+    "specifications": {
+      "General": {
+        "Fabric": "Cotton",
+        "Fit": "Slim Fit"
+      }
+    },
+    "offers": [
+      "Special Price: Extra ₹1,300 Off",
+      "Buy 2 Get 5% Off"
+    ],
+    "seller": {
+      "name": "OM SHREE TRADERS",
+      "rating": 4.4
+    },
+    "inStock": true,
+    "stockCount": 120,
+    "warranty": "14 Days Return Policy",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "fash-2",
+    "title": "Men Regular Fit Dark Blue Denim Jeans",
+    "brand": "Levi's",
+    "category": "fashion",
+    "subcategory": "Men's Jeans",
+    "price": 1899,
+    "originalPrice": 3999,
+    "discount": 52,
+    "rating": 4.4,
+    "ratingCount": 38200,
+    "reviewCount": 2890,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Fit: Regular Fit",
+      "Fabric: Cotton Blend Stretch",
+      "Classic 5-Pocket Styling"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "Levi's"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "RETAILNET",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 85,
+    "warranty": "14 Days Return & Exchange",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "fash-3",
+    "title": "Women Floral Print Pure Cotton Anarkali Kurta Set",
+    "brand": "BIBA",
+    "category": "fashion",
+    "subcategory": "Women Kurta Sets",
+    "price": 2499,
+    "originalPrice": 5999,
+    "discount": 58,
+    "rating": 4.3,
+    "ratingCount": 19400,
+    "reviewCount": 1640,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Pattern: Floral Printed Anarkali",
+      "Set Contents: Kurta, Palazzos & Dupatta",
+      "Fabric: 100% Breathable Cotton"
+    ],
+    "specifications": {
+      "General": {
+        "Color": "Pastel Pink"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹3,500 Off"
+    ],
+    "seller": {
+      "name": "BIBA FASHIONS",
+      "rating": 4.6
+    },
+    "inStock": true,
+    "stockCount": 45,
+    "warranty": "14 Days Returnable",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "fash-4",
+    "title": "Smashic Unisex Casual Sneakers for Men and Women",
+    "brand": "PUMA",
+    "category": "fashion",
+    "subcategory": "Footwear",
+    "price": 1799,
+    "originalPrice": 4499,
+    "discount": 60,
+    "rating": 4.3,
+    "ratingCount": 62400,
+    "reviewCount": 4890,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Outer Material: Synthetic Leather",
+      "SoftFoam+ sockliner for superior cushioning"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "PUMA"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "RETAILNET",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 90,
+    "warranty": "3 Months Brand Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "fash-5",
+    "title": "Analog Watch - For Men (Silver Dial, Stainless Steel)",
+    "brand": "Titan",
+    "category": "fashion",
+    "subcategory": "Watches",
+    "price": 2895,
+    "originalPrice": 4195,
+    "discount": 31,
+    "rating": 4.5,
+    "ratingCount": 28400,
+    "reviewCount": 2100,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Water Resistant: 50 m",
+      "Strap: Stainless Steel",
+      "Dial Color: Silver with Date"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "Titan"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "TITAN COMPANY",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 60,
+    "warranty": "2 Years Manufacturer Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "fash-6",
+    "title": "Men Striped Round Neck Pure Cotton T-Shirt",
+    "brand": "U.S. POLO ASSN.",
+    "category": "fashion",
+    "subcategory": "Men's T-Shirts",
+    "price": 899,
+    "originalPrice": 1999,
+    "discount": 55,
+    "rating": 4.3,
+    "ratingCount": 17800,
+    "reviewCount": 1200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Fit: Regular",
+      "Fabric: 100% Cotton"
+    ],
+    "specifications": {
+      "General": {
+        "Fabric": "Cotton"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹1,100 Off"
+    ],
+    "seller": {
+      "name": "OM SHREE",
+      "rating": 4.5
+    },
+    "inStock": true,
+    "stockCount": 100,
+    "warranty": "14 Days Return Policy",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "fash-7",
+    "title": "Women A-line Black Dress with Belt",
+    "brand": "VERO MODA",
+    "category": "fashion",
+    "subcategory": "Women Western",
+    "price": 1499,
+    "originalPrice": 3299,
+    "discount": 54,
+    "rating": 4.4,
+    "ratingCount": 8900,
+    "reviewCount": 780,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Fabric: Viscose Rayon",
+      "Neck: V-Neck"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "Vero Moda"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "RETAILNET",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 35,
+    "warranty": "14 Days Returnable",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": false
+  },
+  {
+    "id": "fash-8",
+    "title": "Men Downshifter 13 Running Shoes",
+    "brand": "NIKE",
+    "category": "fashion",
+    "subcategory": "Footwear",
+    "price": 3295,
+    "originalPrice": 4995,
+    "discount": 34,
+    "rating": 4.4,
+    "ratingCount": 42100,
+    "reviewCount": 3200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Cushioned midsole for soft ride",
+      "Breathable mesh upper"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "Nike"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "CORSECA Retails",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 70,
+    "warranty": "6 Months Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "fash-9",
+    "title": "UV Protected Wayfarer Sunglasses (Green Lens)",
+    "brand": "Ray-Ban",
+    "category": "fashion",
+    "subcategory": "Watches & Accessories",
+    "price": 5490,
+    "originalPrice": 7290,
+    "discount": 24,
+    "rating": 4.6,
+    "ratingCount": 5400,
+    "reviewCount": 480,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "100% UV Protection (UV 400)",
+      "Black Acetate Frame"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "Ray-Ban"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹500 Off on ICICI Cards"
+    ],
+    "seller": {
+      "name": "LUXOTTICA",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 25,
+    "warranty": "2 Years International Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "fash-10",
+    "title": "Men Genuine Leather RFID Protected Bifold Wallet",
+    "brand": "WildHorn",
+    "category": "fashion",
+    "subcategory": "Watches & Accessories",
+    "price": 499,
+    "originalPrice": 1999,
+    "discount": 75,
+    "rating": 4.3,
+    "ratingCount": 89000,
+    "reviewCount": 7400,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "100% Genuine Full Grain Leather",
+      "RFID Blocking Technology"
+    ],
+    "specifications": {
+      "General": {
+        "Material": "Genuine Leather"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹1,500 Off"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 140,
+    "warranty": "6 Months Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "home-1",
+    "title": "Prestige Iris Plus 750 W Mixer Grinder with 4 Jars (Black)",
+    "brand": "Prestige",
+    "category": "home-furniture",
+    "subcategory": "Kitchen & Dining",
+    "price": 2799,
+    "originalPrice": 6195,
+    "discount": 54,
+    "rating": 4.1,
+    "ratingCount": 184500,
+    "reviewCount": 14890,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Power: 750 Watts Heavy Duty Motor",
+      "Jars: 3 Stainless Steel Jars + 1 Juicer Jar"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "Prestige"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹3,396 Off"
+    ],
+    "seller": {
+      "name": "PETILANTE",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 85,
+    "warranty": "2 Years Brand Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "home-2",
+    "title": "Milton Thermosteel Flip Lid 1000 ml Vacuum Insulated Flask",
+    "brand": "Milton",
+    "category": "home-furniture",
+    "subcategory": "Kitchen & Dining",
+    "price": 949,
+    "originalPrice": 1250,
+    "discount": 24,
+    "rating": 4.4,
+    "ratingCount": 92300,
+    "reviewCount": 6800,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Keeps Hot or Cold for 24 Hours",
+      "Stainless Steel 304 Grade"
+    ],
+    "specifications": {
+      "General": {
+        "Capacity": "1000 ml"
+      }
+    },
+    "offers": [
+      "Special Price: ₹301 Off"
+    ],
+    "seller": {
+      "name": "OM SHREE",
+      "rating": 4.5
+    },
+    "inStock": true,
+    "stockCount": 110,
+    "warranty": "1 Year Manufacturer Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "home-3",
+    "title": "Wakefit Orthopedic Memory Foam 6 Inch Queen Size Mattress",
+    "brand": "Wakefit",
+    "category": "home-furniture",
+    "subcategory": "Furniture",
+    "price": 11499,
+    "originalPrice": 16999,
+    "discount": 32,
+    "rating": 4.5,
+    "ratingCount": 48200,
+    "reviewCount": 4200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Dimension: 78x60x6 inches Queen Size",
+      "Memory Foam for Spinal Alignment"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "Wakefit"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹1000 Off on HDFC Credit Cards"
+    ],
+    "seller": {
+      "name": "WAKEFIT INNOVATIONS",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 40,
+    "warranty": "10 Years Manufacturer Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "home-4",
+    "title": "Green Soul Monster Ultimate Ergonomic Gaming & Office Chair",
+    "brand": "Green Soul",
+    "category": "home-furniture",
+    "subcategory": "Furniture",
+    "price": 16990,
+    "originalPrice": 29990,
+    "discount": 43,
+    "rating": 4.6,
+    "ratingCount": 12400,
+    "reviewCount": 1390,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1580481077195-c328a37db719?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Spumone Foam with Breathable Fabric",
+      "4D Adjustable Armrests & 180° Recline"
+    ],
+    "specifications": {
+      "General": {
+        "Color": "Black & Grey"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "GREEN SOUL ONLINE",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 22,
+    "warranty": "3 Years Manufacturer Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "home-5",
+    "title": "Pigeon by Stovekraft Favourite 3 Litre Pressure Cooker",
+    "brand": "Pigeon",
+    "category": "home-furniture",
+    "subcategory": "Kitchen & Dining",
+    "price": 699,
+    "originalPrice": 1495,
+    "discount": 53,
+    "rating": 4.2,
+    "ratingCount": 268000,
+    "reviewCount": 18200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Capacity: 3 Litres",
+      "Compatible with Gas and Induction"
+    ],
+    "specifications": {
+      "General": {
+        "Capacity": "3 L"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹796 Off"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 160,
+    "warranty": "5 Years Brand Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "home-6",
+    "title": "Solimo 100% Cotton Floral Double Bedsheet with 2 Pillow Covers",
+    "brand": "Solimo",
+    "category": "home-furniture",
+    "subcategory": "Home Furnishing",
+    "price": 649,
+    "originalPrice": 1399,
+    "discount": 53,
+    "rating": 4.3,
+    "ratingCount": 54200,
+    "reviewCount": 3890,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Size: Double (228 cm x 254 cm)",
+      "100% Premium Cotton, 144 TC"
+    ],
+    "specifications": {
+      "General": {
+        "Material": "Cotton"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "OM SHREE",
+      "rating": 4.5
+    },
+    "inStock": true,
+    "stockCount": 90,
+    "warranty": "14 Days Return Policy",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "home-7",
+    "title": "Wipro Smart LED 12W Color Changing Bulb with WiFi Control",
+    "brand": "Wipro",
+    "category": "home-furniture",
+    "subcategory": "Lighting",
+    "price": 599,
+    "originalPrice": 1290,
+    "discount": 53,
+    "rating": 4.2,
+    "ratingCount": 78900,
+    "reviewCount": 5400,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1550985543-f47f38aeee65?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "16 Million Colors + Warm & Cool White",
+      "Works with Alexa & Google Assistant"
+    ],
+    "specifications": {
+      "General": {
+        "Wattage": "12 W"
+      }
+    },
+    "offers": [
+      "Special Price: ₹691 Off"
+    ],
+    "seller": {
+      "name": "PETILANTE",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 130,
+    "warranty": "2 Years Brand Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": false
+  },
+  {
+    "id": "home-8",
+    "title": "Ajanta Abstract Silent Quartz Sweep Movement Wall Clock (32 cm)",
+    "brand": "Ajanta",
+    "category": "home-furniture",
+    "subcategory": "Home Decor",
+    "price": 449,
+    "originalPrice": 899,
+    "discount": 50,
+    "rating": 4.4,
+    "ratingCount": 43200,
+    "reviewCount": 3100,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Diameter: 32 cm Round Dial",
+      "Silent Sweep Technology"
+    ],
+    "specifications": {
+      "General": {
+        "Mechanism": "Quartz Sweep"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹450 Off"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 80,
+    "warranty": "1 Year Manufacturer Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "app-1",
+    "title": "LG 7 kg 5 Star Inverter Fully Automatic Front Load Washing Machine",
+    "brand": "LG",
+    "category": "appliances",
+    "subcategory": "Washing Machines",
+    "price": 28990,
+    "originalPrice": 43990,
+    "discount": 34,
+    "rating": 4.5,
+    "ratingCount": 52100,
+    "reviewCount": 4200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Fully Automatic Front Load, 7 kg capacity",
+      "5 Star Energy Rating with AI Direct Drive",
+      "6 Motion DD Technology & Steam Wash"
+    ],
+    "specifications": {
+      "General": {
+        "Capacity": "7 kg"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹2,000 Off on All Bank Credit Cards"
+    ],
+    "seller": {
+      "name": "CORSECA Retails",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 20,
+    "warranty": "2 Years Comprehensive and 10 Years on Motor",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "app-2",
+    "title": "SAMSUNG 183 L Direct Cool 4 Star Refrigerator with Digital Inverter",
+    "brand": "SAMSUNG",
+    "category": "appliances",
+    "subcategory": "Refrigerators",
+    "price": 15490,
+    "originalPrice": 20999,
+    "discount": 26,
+    "rating": 4.4,
+    "ratingCount": 89400,
+    "reviewCount": 6800,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Capacity: 183 L, 4 Star Energy Rating",
+      "Digital Inverter Compressor: 50% less power consumption"
+    ],
+    "specifications": {
+      "General": {
+        "Capacity": "183 L"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹1,500 Off on HDFC Credit Cards"
+    ],
+    "seller": {
+      "name": "TREASURE MINT",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 35,
+    "warranty": "1 Year on Product, 20 Years on Compressor",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "app-3",
+    "title": "Xiaomi 108 cm (43 inch) Full HD Smart Google TV with Dolby Audio",
+    "brand": "Xiaomi",
+    "category": "appliances",
+    "subcategory": "Televisions",
+    "price": 20999,
+    "originalPrice": 35999,
+    "discount": 41,
+    "rating": 4.3,
+    "ratingCount": 112000,
+    "reviewCount": 9400,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Full HD 1920 x 1080 Pixels with Vivid Picture Engine",
+      "Google TV with Google Assistant & Chromecast built-in",
+      "20W Stereo Speakers with Dolby Audio"
+    ],
+    "specifications": {
+      "General": {
+        "Screen Size": "43 inch"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 50,
+    "warranty": "1 Year Comprehensive + 1 Year on Panel",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "app-4",
+    "title": "Voltas 1.5 Ton 3 Star Split Inverter AC - White",
+    "brand": "Voltas",
+    "category": "appliances",
+    "subcategory": "Air Conditioners",
+    "price": 31990,
+    "originalPrice": 62990,
+    "discount": 49,
+    "rating": 4.2,
+    "ratingCount": 64300,
+    "reviewCount": 5800,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1614633833026-0e1f7491763a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "1.5 Ton capacity suitable for medium rooms (111-150 sq ft)",
+      "100% Copper Condenser with Anti-Corrosion Coating"
+    ],
+    "specifications": {
+      "General": {
+        "Capacity": "1.5 Ton"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹2,000 Off on ICICI Bank Credit Cards"
+    ],
+    "seller": {
+      "name": "PETILANTE",
+      "rating": 4.6
+    },
+    "inStock": true,
+    "stockCount": 28,
+    "warranty": "1 Year Comprehensive, 10 Years on Compressor",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "app-5",
+    "title": "PHILIPS Air Fryer 4.1 Litre with Rapid Air Technology",
+    "brand": "Philips",
+    "category": "appliances",
+    "subcategory": "Kitchen Appliances",
+    "price": 5999,
+    "originalPrice": 9995,
+    "discount": 40,
+    "rating": 4.5,
+    "ratingCount": 38900,
+    "reviewCount": 3200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Rapid Air Technology: Fry with up to 90% less fat",
+      "Capacity: 4.1 Litres, 1400 Watts power"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "HD9200/90"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹3,996 Off"
+    ],
+    "seller": {
+      "name": "CORSECA Retails",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 42,
+    "warranty": "2 Years Worldwide Guarantee",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": false
+  },
+  {
+    "id": "app-6",
+    "title": "Kent Grand Plus RO+UV+UF+TDS Water Purifier",
+    "brand": "Kent",
+    "category": "appliances",
+    "subcategory": "Kitchen Appliances",
+    "price": 14999,
+    "originalPrice": 20000,
+    "discount": 25,
+    "rating": 4.3,
+    "ratingCount": 45000,
+    "reviewCount": 3900,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Purification by RO + UV + UF + Copper",
+      "Storage: 9 Litres"
+    ],
+    "specifications": {
+      "General": {
+        "Capacity": "9 L"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "TREASURE MINT",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 24,
+    "warranty": "1 Year Warranty + 3 Years Free Service",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "app-7",
+    "title": "Morphy Richards 800 W Espresso & Cappuccino Coffee Maker",
+    "brand": "Morphy Richards",
+    "category": "appliances",
+    "subcategory": "Kitchen Appliances",
+    "price": 3899,
+    "originalPrice": 6295,
+    "discount": 38,
+    "rating": 4.2,
+    "ratingCount": 19400,
+    "reviewCount": 1800,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Makes Espresso, Cappuccino & Latte",
+      "Milk Frothing Nozzle"
+    ],
+    "specifications": {
+      "General": {
+        "Wattage": "800 W"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹2,396 Off"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 38,
+    "warranty": "2 Years Manufacturer Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "app-8",
+    "title": "Havells Glaze 1200 mm 3 Blade Ceiling Fan (Ivory)",
+    "brand": "Havells",
+    "category": "appliances",
+    "subcategory": "Small Home Appliances",
+    "price": 2199,
+    "originalPrice": 3490,
+    "discount": 37,
+    "rating": 4.3,
+    "ratingCount": 68400,
+    "reviewCount": 4900,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Sweep: 1200 mm, Air Delivery: 220 m3/min",
+      "Double Ball Bearing"
+    ],
+    "specifications": {
+      "General": {
+        "Sweep": "1200 mm"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "PETILANTE",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 75,
+    "warranty": "2 Years Comprehensive Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "bt-1",
+    "title": "Minimalist 10% Niacinamide Face Serum with Zinc (30 ml)",
+    "brand": "Minimalist",
+    "category": "beauty-toys",
+    "subcategory": "Skincare",
+    "price": 569,
+    "originalPrice": 599,
+    "discount": 5,
+    "rating": 4.4,
+    "ratingCount": 64300,
+    "reviewCount": 4200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Niacinamide 10% + Zinc 1%",
+      "Reduces Acne Marks, Blemishes and Dark Spots"
+    ],
+    "specifications": {
+      "General": {
+        "Quantity": "30 ml"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "BEAUTY SPOT",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 150,
+    "warranty": "Best Before 24 Months",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "bt-2",
+    "title": "LEGO Classic Medium Creative Brick Box 10696 (484 Pieces)",
+    "brand": "LEGO",
+    "category": "beauty-toys",
+    "subcategory": "Toys & Games",
+    "price": 2799,
+    "originalPrice": 3499,
+    "discount": 20,
+    "rating": 4.7,
+    "ratingCount": 18200,
+    "reviewCount": 1450,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Includes 484 Colorful Bricks in 35 Colors",
+      "Convenient Storage Container"
+    ],
+    "specifications": {
+      "General": {
+        "Pieces": "484"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹700 Off"
+    ],
+    "seller": {
+      "name": "TOYWORLD",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 45,
+    "warranty": "100% Genuine LEGO Product",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "bt-3",
+    "title": "Pampers All round Protection Pants Diapers (Size L, 64 Count)",
+    "brand": "Pampers",
+    "category": "beauty-toys",
+    "subcategory": "Baby Care",
+    "price": 899,
+    "originalPrice": 1299,
+    "discount": 30,
+    "rating": 4.5,
+    "ratingCount": 124000,
+    "reviewCount": 8900,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Up to 12 Hours Absorption",
+      "Anti-Rash Blanket with Aloe Vera"
+    ],
+    "specifications": {
+      "General": {
+        "Size": "L",
+        "Count": "64"
+      }
+    },
+    "offers": [
+      "Special Price: Extra ₹400 Off"
+    ],
+    "seller": {
+      "name": "BUZZINDIA",
+      "rating": 4.7
+    },
+    "inStock": true,
+    "stockCount": 180,
+    "warranty": "Standard Baby Care Return Policy",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "bt-4",
+    "title": "Yonex Nanoray 7000I Graphite Badminton Racquet with Full Cover",
+    "brand": "Yonex",
+    "category": "beauty-toys",
+    "subcategory": "Sports & Fitness",
+    "price": 1899,
+    "originalPrice": 3290,
+    "discount": 42,
+    "rating": 4.3,
+    "ratingCount": 78000,
+    "reviewCount": 6200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Weight: 77 grams (Lightweight G4)",
+      "Full Graphite Shaft with Isometric Head"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "Yonex"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "SPORTS ZONE",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 65,
+    "warranty": "6 Months Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "bt-5",
+    "title": "Philips OneBlade Hybrid Trimmer and Shaver for Men",
+    "brand": "Philips",
+    "category": "beauty-toys",
+    "subcategory": "Men's Grooming",
+    "price": 1299,
+    "originalPrice": 1699,
+    "discount": 23,
+    "rating": 4.3,
+    "ratingCount": 49200,
+    "reviewCount": 3890,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1621607512214-68297480165e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Trim, Edge and Shave any length of hair",
+      "Dual-sided blade, 100% waterproof"
+    ],
+    "specifications": {
+      "General": {
+        "Model": "QP1424/10"
+      }
+    },
+    "offers": [
+      "Special Price: ₹400 Off"
+    ],
+    "seller": {
+      "name": "CORSECA Retails",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 95,
+    "warranty": "2 Years Manufacturer Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": false
+  },
+  {
+    "id": "bt-6",
+    "title": "Hasbro Gaming Monopoly Deluxe Edition Classic Board Game",
+    "brand": "Hasbro",
+    "category": "beauty-toys",
+    "subcategory": "Toys & Games",
+    "price": 999,
+    "originalPrice": 1499,
+    "discount": 33,
+    "rating": 4.5,
+    "ratingCount": 32100,
+    "reviewCount": 2400,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Fast-Dealing Property Trading Game",
+      "2 to 6 Players, Ages 8+"
+    ],
+    "specifications": {
+      "General": {
+        "Brand": "Hasbro"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹500 Off"
+    ],
+    "seller": {
+      "name": "TOYWORLD",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 55,
+    "warranty": "100% Original Hasbro Product",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "bt-7",
+    "title": "L'Oreal Paris Extraordinary Oil Hair Serum (100 ml)",
+    "brand": "L'Oreal",
+    "category": "beauty-toys",
+    "subcategory": "Haircare",
+    "price": 449,
+    "originalPrice": 649,
+    "discount": 30,
+    "rating": 4.4,
+    "ratingCount": 110000,
+    "reviewCount": 7800,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1608248597359-00e9cf41d83d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Infused with 6 Rare Floral Oils",
+      "Provides 4x More Shine, Non-greasy"
+    ],
+    "specifications": {
+      "General": {
+        "Quantity": "100 ml"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "BEAUTY SPOT",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 130,
+    "warranty": "36 Months Shelf Life",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": false
+  },
+  {
+    "id": "bt-8",
+    "title": "Nivia Storm Football Rubber Moulded Size 5 with Air Pump",
+    "brand": "Nivia",
+    "category": "beauty-toys",
+    "subcategory": "Sports & Fitness",
+    "price": 499,
+    "originalPrice": 820,
+    "discount": 39,
+    "rating": 4.2,
+    "ratingCount": 84500,
+    "reviewCount": 6100,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Size: 5 Standard Tournament Size",
+      "Rubber Outer Cover for High Durability"
+    ],
+    "specifications": {
+      "General": {
+        "Size": "5"
+      }
+    },
+    "offers": [
+      "Special Price: ₹321 Off"
+    ],
+    "seller": {
+      "name": "SPORTS ZONE",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 90,
+    "warranty": "3 Months Brand Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "groc-1",
+    "title": "Tata Salt Vacuum Evaporated Iodised Salt (1 kg)",
+    "brand": "Tata",
+    "category": "grocery",
+    "subcategory": "Staples",
+    "price": 26,
+    "originalPrice": 28,
+    "discount": 7,
+    "rating": 4.6,
+    "ratingCount": 350000,
+    "reviewCount": 18000,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Vacuum Evaporated Iodised Salt",
+      "Pure and Hygienic Packaging"
+    ],
+    "specifications": {
+      "General": {
+        "Quantity": "1 kg"
+      }
+    },
+    "offers": [
+      "Super Saver Price"
+    ],
+    "seller": {
+      "name": "SUPERMART",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 500,
+    "warranty": "Best Before 24 Months",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "groc-2",
+    "title": "Fortune Sunlite Refined Sunflower Oil (1 L Pouch)",
+    "brand": "Fortune",
+    "category": "grocery",
+    "subcategory": "Cooking Oil & Ghee",
+    "price": 125,
+    "originalPrice": 165,
+    "discount": 24,
+    "rating": 4.5,
+    "ratingCount": 185000,
+    "reviewCount": 9800,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Enriched with Vitamins A and D",
+      "Light and Healthy Cooking Oil"
+    ],
+    "specifications": {
+      "General": {
+        "Quantity": "1 L"
+      }
+    },
+    "offers": [
+      "Super Saver Price: Flat ₹40 Off"
+    ],
+    "seller": {
+      "name": "SUPERMART",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 300,
+    "warranty": "Best Before 9 Months",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "groc-3",
+    "title": "Aashirvaad Superior MP Sharbati Whole Wheat Atta (5 kg)",
+    "brand": "Aashirvaad",
+    "category": "grocery",
+    "subcategory": "Atta & Flours",
+    "price": 289,
+    "originalPrice": 340,
+    "discount": 15,
+    "rating": 4.6,
+    "ratingCount": 240000,
+    "reviewCount": 12400,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "100% Pure Sharbati Wheat from MP",
+      "Rich in Dietary Fibre"
+    ],
+    "specifications": {
+      "General": {
+        "Quantity": "5 kg"
+      }
+    },
+    "offers": [
+      "Super Saver Price"
+    ],
+    "seller": {
+      "name": "SUPERMART",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 250,
+    "warranty": "Best Before 3 Months",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "groc-4",
+    "title": "Daawat Rozana Super Basmati Rice (5 kg)",
+    "brand": "Daawat",
+    "category": "grocery",
+    "subcategory": "Rice & Rice Products",
+    "price": 449,
+    "originalPrice": 595,
+    "discount": 24,
+    "rating": 4.4,
+    "ratingCount": 98000,
+    "reviewCount": 6400,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Long and Fluffy Grains",
+      "Rich Aroma and Authentic Flavor"
+    ],
+    "specifications": {
+      "General": {
+        "Quantity": "5 kg"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹146 Off"
+    ],
+    "seller": {
+      "name": "SUPERMART",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 180,
+    "warranty": "Best Before 24 Months",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "groc-5",
+    "title": "Maggi 2-Minute Instant Noodles Masala (Pack of 12 x 70g)",
+    "brand": "Maggi",
+    "category": "grocery",
+    "subcategory": "Noodles & Pasta",
+    "price": 144,
+    "originalPrice": 168,
+    "discount": 14,
+    "rating": 4.5,
+    "ratingCount": 420000,
+    "reviewCount": 22000,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Classic Maggi Masala Taste with Quality Spices",
+      "Fortified with Iron"
+    ],
+    "specifications": {
+      "General": {
+        "Pack Size": "840 g"
+      }
+    },
+    "offers": [
+      "Super Saver Price"
+    ],
+    "seller": {
+      "name": "SUPERMART",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 400,
+    "warranty": "Best Before 9 Months",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "groc-6",
+    "title": "Nescafe Classic Instant Coffee Jar (200 g)",
+    "brand": "Nescafe",
+    "category": "grocery",
+    "subcategory": "Beverages",
+    "price": 549,
+    "originalPrice": 675,
+    "discount": 18,
+    "rating": 4.5,
+    "ratingCount": 112000,
+    "reviewCount": 7800,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "100% Pure Natural Coffee from Robusta & Arabica",
+      "Signature Bold Taste"
+    ],
+    "specifications": {
+      "General": {
+        "Weight": "200 g"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹126 Off"
+    ],
+    "seller": {
+      "name": "SUPERMART",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 140,
+    "warranty": "Best Before 24 Months",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "groc-7",
+    "title": "Surf Excel Matic Front Load Detergent Powder (4 kg)",
+    "brand": "Surf Excel",
+    "category": "grocery",
+    "subcategory": "Laundry & Detergents",
+    "price": 899,
+    "originalPrice": 1150,
+    "discount": 21,
+    "rating": 4.6,
+    "ratingCount": 198000,
+    "reviewCount": 11200,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Engineered for Front Load Machines",
+      "Removes tough stains without residue"
+    ],
+    "specifications": {
+      "General": {
+        "Quantity": "4 kg"
+      }
+    },
+    "offers": [
+      "Super Saver Price: Save ₹251"
+    ],
+    "seller": {
+      "name": "SUPERMART",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 190,
+    "warranty": "Best Before 24 Months",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": false
+  },
+  {
+    "id": "groc-8",
+    "title": "Dabur Honey 100% Pure Indigenous Honey (1 kg)",
+    "brand": "Dabur",
+    "category": "grocery",
+    "subcategory": "Honey & Spreads",
+    "price": 389,
+    "originalPrice": 470,
+    "discount": 17,
+    "rating": 4.5,
+    "ratingCount": 145000,
+    "reviewCount": 8900,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "100% Pure Honey with No Added Sugar",
+      "NMR Tested in Germany for Purity"
+    ],
+    "specifications": {
+      "General": {
+        "Quantity": "1 kg"
+      }
+    },
+    "offers": [
+      "Special Price: Flat ₹81 Off"
+    ],
+    "seller": {
+      "name": "SUPERMART",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 160,
+    "warranty": "Best Before 18 Months",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "tw-1",
+    "title": "Hero Splendor Plus XTEC (Black Canvas, Drum Brake)",
+    "brand": "Hero",
+    "category": "two-wheelers",
+    "subcategory": "Motorcycles",
+    "price": 79990,
+    "originalPrice": 83490,
+    "discount": 4,
+    "rating": 4.4,
+    "ratingCount": 4200,
+    "reviewCount": 380,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "97.2 cc Engine with Bluetooth Digital Meter",
+      "Mileage: 65+ kmpl, i3S Technology"
+    ],
+    "specifications": {
+      "General": {
+        "Engine": "97.2 cc"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹5,000 Instant Discount with Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "HERO MOTOCORP",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 12,
+    "warranty": "5 Years / 70,000 km Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "tw-2",
+    "title": "Ather 450X Gen 3 Electric Scooter with Pro Pack (Space Grey)",
+    "brand": "Ather",
+    "category": "two-wheelers",
+    "subcategory": "Electric Vehicles",
+    "price": 142999,
+    "originalPrice": 159999,
+    "discount": 10,
+    "rating": 4.6,
+    "ratingCount": 6800,
+    "reviewCount": 740,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "TrueRange: 111 km on single charge",
+      "Top Speed: 90 km/h, 7-inch Touchscreen Navigation"
+    ],
+    "specifications": {
+      "General": {
+        "Type": "Electric"
+      }
+    },
+    "offers": [
+      "FAME II & State EV Subsidy Applicable"
+    ],
+    "seller": {
+      "name": "ATHER ENERGY",
+      "rating": 4.9
+    },
+    "inStock": true,
+    "stockCount": 15,
+    "warranty": "5 Years Battery Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": true,
+    "topPick": true
+  },
+  {
+    "id": "tw-3",
+    "title": "Honda Activa 6G (Pearl Siren Blue, Deluxe)",
+    "brand": "Honda",
+    "category": "two-wheelers",
+    "subcategory": "Scooters",
+    "price": 82490,
+    "originalPrice": 86990,
+    "discount": 5,
+    "rating": 4.5,
+    "ratingCount": 9800,
+    "reviewCount": 920,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1609630875171-b1321377ee65?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "109.51 cc PGM-FI Engine with eSP",
+      "Telescopic Front Suspension"
+    ],
+    "specifications": {
+      "General": {
+        "Engine": "109.51 cc"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "HONDA TWO WHEELERS",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 20,
+    "warranty": "3 Years Standard Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "tw-4",
+    "title": "Ola S1 Pro Gen 2 Electric Scooter (Midnight Blue)",
+    "brand": "Ola",
+    "category": "two-wheelers",
+    "subcategory": "Electric Vehicles",
+    "price": 129999,
+    "originalPrice": 147499,
+    "discount": 11,
+    "rating": 4.3,
+    "ratingCount": 15400,
+    "reviewCount": 1820,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Certified Range: 195 km, True Range: 180 km",
+      "Top Speed: 120 km/h, MoveOS 4"
+    ],
+    "specifications": {
+      "General": {
+        "Range": "195 km"
+      }
+    },
+    "offers": [
+      "Flat ₹10,000 Festive Discount Included"
+    ],
+    "seller": {
+      "name": "OLA ELECTRIC",
+      "rating": 4.6
+    },
+    "inStock": true,
+    "stockCount": 18,
+    "warranty": "8 Years Battery Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": true
+  },
+  {
+    "id": "tw-5",
+    "title": "TVS Raider 125 (Fiery Yellow, Disc Brake)",
+    "brand": "TVS",
+    "category": "two-wheelers",
+    "subcategory": "Motorcycles",
+    "price": 99990,
+    "originalPrice": 105490,
+    "discount": 5,
+    "rating": 4.5,
+    "ratingCount": 8100,
+    "reviewCount": 780,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1615172282427-9a57ef2d142e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "124.8 cc 3-Valve Engine, 11.38 PS",
+      "TFT Display with Bluetooth Navigation"
+    ],
+    "specifications": {
+      "General": {
+        "Displacement": "124.8 cc"
+      }
+    },
+    "offers": [
+      "Bank Offer: ₹3000 Off on ICICI Cards"
+    ],
+    "seller": {
+      "name": "TVS MOTOR COMPANY",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 16,
+    "warranty": "5 Years Warranty",
+    "dealOfTheDay": false,
+    "bestOfCategory": true,
+    "topPick": false
+  },
+  {
+    "id": "tw-6",
+    "title": "Bajaj Pulsar N160 (Brooklyn Black, Dual Channel ABS)",
+    "brand": "Bajaj",
+    "category": "two-wheelers",
+    "subcategory": "Motorcycles",
+    "price": 132500,
+    "originalPrice": 139900,
+    "discount": 5,
+    "rating": 4.6,
+    "ratingCount": 5400,
+    "reviewCount": 490,
+    "isAssured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "164.82 cc Oil Cooled Twin Spark DTS-i",
+      "Dual-Channel ABS with LED Projector"
+    ],
+    "specifications": {
+      "General": {
+        "Engine": "164.82 cc"
+      }
+    },
+    "offers": [
+      "Bank Offer: 5% Cashback on Flipkart Axis Bank Card"
+    ],
+    "seller": {
+      "name": "BAJAJ AUTO",
+      "rating": 4.8
+    },
+    "inStock": true,
+    "stockCount": 10,
+    "warranty": "5 Years Manufacturer Warranty",
+    "dealOfTheDay": true,
+    "bestOfCategory": false,
+    "topPick": true
+  }
+]
